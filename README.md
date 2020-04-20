@@ -13,4 +13,9 @@ Download Spunk enterprise, I won't be covering this part in the tutorial, but th
 
 
 ## Step Two - Add Data
+Upload your data, in my case i am using the tutorial dataset provided by splunk. This will put your data into the splunk ecosystem, and allowed for it to be accessed by all the splunk tools
+![](UploadData.png)
 
+
+## Step Three - Searching the Data
+Dashboards and visualizations are something you do in conjunction with searching. The goal would be to search for something that needs to be monitored, then create a dashboard of the data aggregation.
