@@ -20,3 +20,8 @@ Upload your data, in my case i am using the tutorial dataset provided by splunk.
 ## Step Three - Searching the Data
 Dashboards and visualizations are something you do in conjunction with searching. The goal would be to search for something that needs to be monitored, then create a dashboard of the data aggregation. The second half of my search below, is what allows the data to be graphed.
 ![](SearchParameters.png)
+
+## Step Four - Editing the visuals, and saving as a dashboard
+After searching the data for parameters you like, switch to the visualizations tab of Splunk, and this will allow you to edit your visuals, which I will cover more in the video!
+![](saveAsPanel.png)
+
