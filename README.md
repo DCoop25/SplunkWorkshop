@@ -18,4 +18,5 @@ Upload your data, in my case i am using the tutorial dataset provided by splunk.
 
 
 ## Step Three - Searching the Data
-Dashboards and visualizations are something you do in conjunction with searching. The goal would be to search for something that needs to be monitored, then create a dashboard of the data aggregation.
+Dashboards and visualizations are something you do in conjunction with searching. The goal would be to search for something that needs to be monitored, then create a dashboard of the data aggregation. The second half of my search below, is what allows the data to be graphed.
+![](SearchParameters.png)
