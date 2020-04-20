@@ -23,5 +23,5 @@ Dashboards and visualizations are something you do in conjunction with searching
 
 ## Step Four - Editing the visuals, and saving as a dashboard
 After searching the data for parameters you like, switch to the visualizations tab of Splunk, and this will allow you to edit your visuals, which I will cover more in the video!
-![](saveAsPanel.png)
+![](Untitled.png)
 
